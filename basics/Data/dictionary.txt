@@ -1,0 +1,7 @@
+{'name': 'AA', 'date': '2007-06-11', 'shares': 100, 'price': 32.2}
+{'name': 'IBM', 'date': '2007-05-13', 'shares': 50, 'price': 91.1}
+{'name': 'CAT', 'date': '2006-09-23', 'shares': 150 'price': 83.44}
+{'name': 'MSFT', 'date': '2007-05-17', 'shares': 200, 'price': 51.23}
+{'name': 'GE', 'date': '2006-02-01', 'shares': 95, 'price': 40.37}
+{'name': 'MSFT', 'date': '2006-10-31', 'shares': 50, 'price': 65.1}
+{'name': 'IBM', 'date': '2006-07-09', 'shares': 100, 'price': 70.44}

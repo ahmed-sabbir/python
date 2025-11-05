@@ -1,0 +1,8 @@
+reload module while in python interactive shell:
+
+python -i table
+#table.py changed
+#to reload without restarting shell:
+
+import importlib
+importlib.reload(table)
