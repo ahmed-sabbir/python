@@ -1,2 +1,4 @@
 iterator is a lazy single use iterable, it gets exhausted after use
 enumarate,zip,reversed functions return a iterator
+
+range is an iterable, you can loop over it multiple times
