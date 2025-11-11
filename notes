@@ -2,3 +2,11 @@ iterator is a lazy single use iterable, it gets exhausted after use
 enumarate,zip,reversed functions return a iterator
 
 range is a lazy iterable, you can loop over it multiple times
+
+list comprehension syntax:
+[expression for item in iterable]
+[expression for item in iterable if condition]
+[expression_if_true if condition else expression_if_false for item in iterable]
+
+generator syntax: same
+(expression for item in iterable if condition)
